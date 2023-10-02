@@ -1,6 +1,64 @@
 import React from "react"
 import img1 from '../BMW 4 series.jpeg';
 import img2 from '../toypta supra.jpeg';
+import img3 from '../toypta supra.jpeg';
+import img4 from '../toypta supra.jpeg';
+import img5 from '../toypta supra.jpeg';
+import img6 from '../toypta supra.jpeg';
+import img7 from '../toypta supra.jpeg';
+import img8 from '../toypta supra.jpeg';
+import img9 from '../toypta supra.jpeg';
+import img10 from '../toypta supra.jpeg';
+import img11 from '../toypta supra.jpeg';
+import img12 from '../toypta supra.jpeg';
+import img13 from '../toypta supra.jpeg';
+import img14 from '../toypta supra.jpeg';
+import img15 from '../toypta supra.jpeg';
+import img16 from '../toypta supra.jpeg';
+import img17 from '../toypta supra.jpeg';
+import img18 from '../toypta supra.jpeg';
+import img19 from '../toypta supra.jpeg';
+import img20 from '../toypta supra.jpeg';
+import img21 from '../toypta supra.jpeg';
+import img22 from '../toypta supra.jpeg';
+import img23 from '../toypta supra.jpeg';
+import img24 from '../toypta supra.jpeg';
+import img25 from '../toypta supra.jpeg';
+import img26 from '../toypta supra.jpeg';
+import img27 from '../toypta supra.jpeg';
+import img28 from '../toypta supra.jpeg';
+import img29 from '../toypta supra.jpeg';
+import img30 from '../toypta supra.jpeg';
+import img31 from '../toypta supra.jpeg';
+import img32 from '../toypta supra.jpeg';
+import img33 from '../toypta supra.jpeg';
+import img34 from '../toypta supra.jpeg';
+import img35 from '../toypta supra.jpeg';
+import img36 from '../toypta supra.jpeg';
+import img37 from '../toypta supra.jpeg';
+import img38 from '../toypta supra.jpeg';
+import img39 from '../toypta supra.jpeg';
+import img40 from '../toypta supra.jpeg';
+import img41 from '../toypta supra.jpeg';
+import img42 from '../toypta supra.jpeg';
+import img43 from '../toypta supra.jpeg';
+import img44 from '../toypta supra.jpeg';
+import img45 from '../toypta supra.jpeg';
+import img46 from '../toypta supra.jpeg';
+import img47 from '../toypta supra.jpeg';
+import img48 from '../toypta supra.jpeg';
+import img49 from '../toypta supra.jpeg';
+import img50 from '../toypta supra.jpeg';
+import img51 from '../toypta supra.jpeg';
+import img52 from '../toypta supra.jpeg';
+import img53 from '../toypta supra.jpeg';
+import img54 from '../toypta supra.jpeg';
+import img55 from '../toypta supra.jpeg';
+import img56 from '../toypta supra.jpeg';
+import img57 from '../toypta supra.jpeg';
+import img58 from '../toypta supra.jpeg';
+import img59 from '../toypta supra.jpeg';
+import img60 from '../toypta supra.jpeg';
 
     let data=[
       {
@@ -27,6 +85,7 @@ import img2 from '../toypta supra.jpeg';
       {
         id: 3,
         car_name: "BMW 3 series",
+        image: img3,
         range: 4,
         type: "Gasoline",
         speed: "8.2km/1-Litre",
@@ -36,6 +95,7 @@ import img2 from '../toypta supra.jpeg';
       {
         id: 4,
         car_name: "Volkwagen T-Cross",
+        image: img4,
         range: 4,
         type: "Gasoline",
         speed: "5.3km/1-Litre",
@@ -45,6 +105,7 @@ import img2 from '../toypta supra.jpeg';
       {
         id: 5,
         car_name:"BMW 4 Series GTI",
+        image: img5,
         range: 4,
         type: "Gasoline",
         speed: "7.6km/1-Litre",
@@ -54,6 +115,7 @@ import img2 from '../toypta supra.jpeg';
       {
         id: 6,
         car_name: "Cadillac Escalade",
+        image: img6,
         range: 4,
         type: "Gasoline",
         speed: "7.7km/1-Litre",
@@ -63,6 +125,7 @@ import img2 from '../toypta supra.jpeg';
       {
         id: 7,
         car_name: "Celica",
+        image: img7,
         range: 4,
         type: "Hybrid",
         speed: "8.0km/1-Litre",
@@ -72,6 +135,7 @@ import img2 from '../toypta supra.jpeg';
       {
         id: 8,
         car_name: "Ford Probe",
+        image: img8,
         range: 2,
         type: "Gasoline",
         speed: "6.2km/1-Litre",
@@ -81,6 +145,7 @@ import img2 from '../toypta supra.jpeg';
       {
         id: 9,
         car_name: "Buggati",
+        image: img9,
         range: 2,
         type: "Hybrid",
         speed: "8.7km/1-Litre",
@@ -90,6 +155,7 @@ import img2 from '../toypta supra.jpeg';
       {
         id: 10,
         car_name: "Chevy",
+        image: img10,
         range: 4,
         type: "Diesel",
         speed: "6.0km/1-Litre",
@@ -99,6 +165,7 @@ import img2 from '../toypta supra.jpeg';
       {
         id: 11,
         car_name: "Dodge Wipers",
+        image: img11,
         range: 2,
         type: "Gasoline",
         speed: "8.2km/1-Litre",
@@ -108,6 +175,7 @@ import img2 from '../toypta supra.jpeg';
       {
         id: 12,
         car_name:"Ferrari Enzo",
+        image: img12,
         range: 4,
         type: "Hybrid",
         speed:"9.0km / 1-Litre",
@@ -116,6 +184,7 @@ import img2 from '../toypta supra.jpeg';
       },{
         id: 13,
         car_name: "Ferrari",
+        image: img13,
         range: 1,
         type: "Hybrid",
         speed: "7.4km/1-Litre",
@@ -125,6 +194,7 @@ import img2 from '../toypta supra.jpeg';
       {
         id: 14,
         car_name: "Ford Mustang",
+        image: img14,
         range: 4,
         type: "Gasoline",
         speed:"7.2km/1-Litre",
@@ -134,6 +204,7 @@ import img2 from '../toypta supra.jpeg';
       {
         id: 15,
         car_name: "Kia",
+        image: img15,
         range: 4,
         type:" Hybrid",
         speed: "8.5km/1-Litre",
@@ -143,6 +214,7 @@ import img2 from '../toypta supra.jpeg';
       {
         id: 16,
         car_name: "Mercedees",
+        image: img16,
         range: 1,
         type: "Gasoline",
         speed: "9.2km/1-Litre",
@@ -152,6 +224,7 @@ import img2 from '../toypta supra.jpeg';
       {
         id: 17,
         car_name: "Porche",
+        image: img17,
         range: 2,
         type: "Gasoline",
         speed: "8.0km/1-Litre",
@@ -160,6 +233,7 @@ import img2 from '../toypta supra.jpeg';
       },{
         id: 18,
         car_name: "Renault Tiger",
+        image: img18,
         range: 4,
         type: "Hybrid",
         speed: "7.7km/1-Litre",
@@ -169,6 +243,7 @@ import img2 from '../toypta supra.jpeg';
       {
         id: 19,
         car_name: "Subaru",
+        image: img19,
         range: 4,
         type: "Gasoline",
         speed: "8.2km/1-Litre",
@@ -178,6 +253,7 @@ import img2 from '../toypta supra.jpeg';
       {
         id: 20,
         car_name: "Tata Azura",
+        image: img20,
         range: 4,
         type: "Hybrid",
         speed: "6.6km/1-Litre",
@@ -187,6 +263,7 @@ import img2 from '../toypta supra.jpeg';
       {
         id: 21,
         car_name: "Volkswagen",
+        image: img21,
         range: 4,
         type: "Gasoline",
         speed: "8.2km/1-Litre",
@@ -196,6 +273,7 @@ import img2 from '../toypta supra.jpeg';
       {
         id: 22,
         car_name: "Volkswagen",
+        image: img22,
         range: 4,
         type: "Gasoline",
         speed: "8.2km/1-Litre",
@@ -205,6 +283,7 @@ import img2 from '../toypta supra.jpeg';
       {
         id: 23,
         car_name: "Volkswagen",
+        image: img23,
         range: 4,
         type: "Gasoline",
         speed: "8.2km/1-Litre",
@@ -214,6 +293,7 @@ import img2 from '../toypta supra.jpeg';
       {
         id: 24,
         car_name: "Volkswagen",
+        image: img24,
         range: 4,
         type: "Gasoline",
         speed: "8.2km/1-Litre",
@@ -223,6 +303,7 @@ import img2 from '../toypta supra.jpeg';
       {
         id: 25,
         car_name: "Volkswagen",
+        image: img25,
         range: 4,
         type: "Gasoline",
         speed: "8.2km/1-Litre",
@@ -232,6 +313,7 @@ import img2 from '../toypta supra.jpeg';
       {
         id: 26,
         car_name: "Volkswagen",
+        image: img26,
         range: 4,
         type: "Gasoline",
         speed: "8.2km/1-Litre",
@@ -241,6 +323,7 @@ import img2 from '../toypta supra.jpeg';
       {
         id: 27,
         car_name: "Volkswagen",
+        image: img27,
         range: 4,
         type: "Gasoline",
         speed: "8.2km/1-Litre",
@@ -250,6 +333,7 @@ import img2 from '../toypta supra.jpeg';
       {
         id: 28,
         car_name: "Volkswagen",
+        image: img28,
         range: 4,
         type: "Gasoline",
         speed: "8.2km/1-Litre",
@@ -259,6 +343,7 @@ import img2 from '../toypta supra.jpeg';
       {
         id: 29,
         car_name: "Volkswagen",
+        image: img29,
         range: 4,
         type: "Gasoline",
         speed: "8.2km/1-Litre",
@@ -268,6 +353,7 @@ import img2 from '../toypta supra.jpeg';
       {
         id: 30,
         car_name: "Volkswagen",
+        image: img30,
         range: 4,
         type: "Gasoline",
         speed: "8.2km/1-Litre",
@@ -277,6 +363,7 @@ import img2 from '../toypta supra.jpeg';
       {
         id: 31,
         car_name: "Volkswagen",
+        image: img31,
         range: 4,
         type: "Gasoline",
         speed: "8.2km/1-Litre",
@@ -286,6 +373,7 @@ import img2 from '../toypta supra.jpeg';
       {
         id: 32,
         car_name: "Volkswagen",
+        image: img32,
         range: 4,
         type: "Gasoline",
         speed: "8.2km/1-Litre",
@@ -295,6 +383,7 @@ import img2 from '../toypta supra.jpeg';
       {
         id: 33,
         car_name: "Volkswagen",
+        image: img33,
         range: 4,
         type: "Gasoline",
         speed: "8.2km/1-Litre",
@@ -304,6 +393,7 @@ import img2 from '../toypta supra.jpeg';
       {
         id: 34,
         car_name: "Volkswagen",
+        image: img34,
         range: 4,
         type: "Gasoline",
         speed: "8.2km/1-Litre",
@@ -313,6 +403,7 @@ import img2 from '../toypta supra.jpeg';
       {
         id: 35,
         car_name: "Volkswagen",
+        image: img35,
         range: 4,
         type: "Gasoline",
         speed: "8.2km/1-Litre",
@@ -322,6 +413,7 @@ import img2 from '../toypta supra.jpeg';
       {
         id: 36,
         car_name: "Volkswagen",
+        image: img36,
         range: 4,
         type: "Gasoline",
         speed: "8.2km/1-Litre",
@@ -331,6 +423,7 @@ import img2 from '../toypta supra.jpeg';
       {
         id: 37,
         car_name: "Volkswagen",
+        image: img37,
         range: 4,
         type: "Gasoline",
         speed: "8.2km/1-Litre",
@@ -340,6 +433,7 @@ import img2 from '../toypta supra.jpeg';
       {
         id: 38,
         car_name: "Volkswagen",
+        image: img38,
         range: 4,
         type: "Gasoline",
         speed: "8.2km/1-Litre",
@@ -349,6 +443,7 @@ import img2 from '../toypta supra.jpeg';
       {
         id: 39,
         car_name: "Volkswagen",
+        image: img39,
         range: 4,
         type: "Gasoline",
         speed: "8.2km/1-Litre",
@@ -358,6 +453,7 @@ import img2 from '../toypta supra.jpeg';
       {
         id: 40,
         car_name: "Volkswagen",
+        image: img40,
         range: 4,
         type: "Gasoline",
         speed: "8.2km/1-Litre",
@@ -367,6 +463,7 @@ import img2 from '../toypta supra.jpeg';
       {
         id: 41,
         car_name: "Volkswagen",
+        image: img41,
         range: 4,
         type: "Gasoline",
         speed: "8.2km/1-Litre",
@@ -376,6 +473,7 @@ import img2 from '../toypta supra.jpeg';
       {
         id: 42,
         car_name: "Volkswagen",
+        image: img42,
         range: 4,
         type: "Gasoline",
         speed: "8.2km/1-Litre",
@@ -385,6 +483,7 @@ import img2 from '../toypta supra.jpeg';
       {
         id: 43,
         car_name: "Volkswagen",
+        image: img43,
         range: 4,
         type: "Gasoline",
         speed: "8.2km/1-Litre",
@@ -394,6 +493,7 @@ import img2 from '../toypta supra.jpeg';
       {
         id: 44,
         car_name: "Volkswagen",
+        image: img44,
         range: 4,
         type: "Gasoline",
         speed: "8.2km/1-Litre",
@@ -403,6 +503,7 @@ import img2 from '../toypta supra.jpeg';
       {
         id: 45,
         car_name: "Volkswagen",
+        image: img45,
         range: 4,
         type: "Gasoline",
         speed: "8.2km/1-Litre",
@@ -412,6 +513,7 @@ import img2 from '../toypta supra.jpeg';
       {
         id: 46,
         car_name: "Volkswagen",
+        image: img46,
         range: 4,
         type: "Gasoline",
         speed: "8.2km/1-Litre",
@@ -421,6 +523,7 @@ import img2 from '../toypta supra.jpeg';
       {
         id: 47,
         car_name: "Volkswagen",
+        image: img47,
         range: 4,
         type: "Gasoline",
         speed: "8.2km/1-Litre",
@@ -430,6 +533,7 @@ import img2 from '../toypta supra.jpeg';
       {
         id: 48,
         car_name: "Volkswagen",
+        image: img48,
         range: 4,
         type: "Gasoline",
         speed: "8.2km/1-Litre",
@@ -439,6 +543,7 @@ import img2 from '../toypta supra.jpeg';
       {
         id: 49,
         car_name: "Volkswagen",
+        image: img49,
         range: 4,
         type: "Gasoline",
         speed: "8.2km/1-Litre",
@@ -448,6 +553,7 @@ import img2 from '../toypta supra.jpeg';
       {
         id: 50,
         car_name: "Volkswagen",
+        image: img50,
         range: 4,
         type: "Gasoline",
         speed: "8.2km/1-Litre",
@@ -457,6 +563,7 @@ import img2 from '../toypta supra.jpeg';
       {
         id: 51,
         car_name: "Volkswagen",
+        image: img51,
         range: 4,
         type: "Gasoline",
         speed: "8.2km/1-Litre",
@@ -466,6 +573,7 @@ import img2 from '../toypta supra.jpeg';
       {
         id: 52,
         car_name: "Volkswagen",
+        image: img52,
         range: 4,
         type: "Gasoline",
         speed: "8.2km/1-Litre",
@@ -475,6 +583,7 @@ import img2 from '../toypta supra.jpeg';
       {
         id: 53,
         car_name: "Volkswagen",
+        image: img53,
         range: 4,
         type: "Gasoline",
         speed: "8.2km/1-Litre",
@@ -484,6 +593,7 @@ import img2 from '../toypta supra.jpeg';
       {
         id: 54,
         car_name: "Volkswagen",
+        image: img54,
         range: 4,
         type: "Gasoline",
         speed: "8.2km/1-Litre",
@@ -493,6 +603,7 @@ import img2 from '../toypta supra.jpeg';
       {
         id: 55,
         car_name: "Volkswagen",
+        image: img55,
         range: 4,
         type: "Gasoline",
         speed: "8.2km/1-Litre",
@@ -502,6 +613,7 @@ import img2 from '../toypta supra.jpeg';
       {
         id: 56,
         car_name: "Volkswagen",
+        image: img56,
         range: 4,
         type: "Gasoline",
         speed: "8.2km/1-Litre",
@@ -511,6 +623,7 @@ import img2 from '../toypta supra.jpeg';
       {
         id: 57,
         car_name: "Volkswagen",
+        image: img57,
         range: 4,
         type: "Gasoline",
         speed: "8.2km/1-Litre",
@@ -520,6 +633,7 @@ import img2 from '../toypta supra.jpeg';
       {
         id: 58,
         car_name: "Volkswagen",
+        image: img58,
         range: 4,
         type: "Gasoline",
         speed: "8.2km/1-Litre",
@@ -529,6 +643,7 @@ import img2 from '../toypta supra.jpeg';
       {
         id: 59,
         car_name: "Volkswagen",
+        image: img59,
         range: 4,
         type: "Gasoline",
         speed: "8.2km/1-Litre",
@@ -538,6 +653,7 @@ import img2 from '../toypta supra.jpeg';
       {
         id: 60,
         car_name: "Volkswagen",
+        image: img60,
         range: 4,
         type: "Gasoline",
         speed: "8.2km/1-Litre",
