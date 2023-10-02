@@ -1,10 +1,11 @@
 import { useState } from 'react'
+import Card from './Components/Card';
 function App() {
   const [count, setCount] = useState(0)
 
   return (
     <div>
-      <h1>to kaise hai aap log</h1>
+      <Card/>
     </div>
   )
 }
