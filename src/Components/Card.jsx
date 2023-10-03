@@ -1,12 +1,9 @@
 import React from 'react'
-// import Car from './Car';
 import {AiOutlineHeart} from 'react-icons/ai';
 import {BsPeople} from 'react-icons/bs';
 import {BsFuelPumpDiesel} from 'react-icons/bs';
 import {PiSteeringWheelBold} from 'react-icons/pi';
 import {RiSteeringFill} from 'react-icons/ri';
-
-
 const Card = () => {
   return (
     <div>
