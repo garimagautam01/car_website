@@ -1,11 +1,14 @@
-import { useState } from 'react'
+import './App.css'
+import Nav from './Components/Nav'
+import Pagination from './Components/Pagination'
+import { Outlet } from 'react-router-dom'
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
-    <div>
-      <h1>to kaise hai aap log</h1>
-    </div>
+    <>
+    <Nav/>
+    <Outlet/>
+    <Pagination/>
+    </>
   )
 }
 
